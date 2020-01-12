@@ -31,7 +31,7 @@
                             new Tuple<string, string>("color", "red")
                         }
                 },
-                new Link("This is the second test paragraph. ", "http://www.google.se/")
+                new Link("This is the second test paragraph. ", "https://www.palplanner.com/")
             };
 
             var table =
@@ -60,7 +60,7 @@
                     }));
             table.AddRow(
                 new Row(
-                    new Cell(new Link("Berta", "http://www.palplanner.com/")),
+                    new Cell(new Link("Berta", "https://www.palplanner.com/")),
                     new Cell("28"),
                     new Cell("female")
                     {
