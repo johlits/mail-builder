@@ -60,7 +60,7 @@
                     }));
             table.AddRow(
                 new Row(
-                    new Cell(new Link("Berta", "http://www.astando.se/")),
+                    new Cell(new Link("Berta", "http://www.palplanner.com/")),
                     new Cell("28"),
                     new Cell("female")
                     {
